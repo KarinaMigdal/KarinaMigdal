@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarinaMigdal
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning Vue.js
-- 📫 How to reach me: https://www.linkedin.com/in/karina-migda%C5%82-9219221ab/
+- 📫 How to reach me: **www.linkedin.com/in/karina-migdal**
 
 <!---
 KarinaMigdal/KarinaMigdal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
